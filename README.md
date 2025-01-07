@@ -13,7 +13,6 @@
 
 ## 📬 Connect
 - **LinkedIn**: [in/anreut](https://linkedin.com/in/anreut)
-- **Email**: nastassia.reut (at) gmail.com
 
 <!--
 **anreut/anreut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
