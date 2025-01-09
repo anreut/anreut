@@ -7,10 +7,6 @@
 - Frameworks: React, Next.js, Node.js
 - Tools: Git, GitHub, GitHub Actions, Docker
 
-## 🎯 Professional Goals
-- Building impactful tech solutions
-- Continuous learning and skill development in latest frontend technologies
-
 ## 📬 Connect
 - **LinkedIn**: [in/anreut](https://linkedin.com/in/anreut)
 
