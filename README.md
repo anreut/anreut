@@ -3,9 +3,9 @@
 > Software Engineer | Typescript evangelist | Problem solver
 
 ## 🛠️ Technical Stack
-- Languages: JavaScript, Typescript
-- Frameworks: React, Next.js, Node.js
-- Tools: Git, GitHub, GitHub Actions, Docker
+* Languages: JavaScript, Typescript, Node.js
+* Frameworks: React, Next.js, Express
+* Tools: Git, GitHub, Docker
 
 ## 📬 Connect
 - **LinkedIn**: [in/anreut](https://linkedin.com/in/anreut)
