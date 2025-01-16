@@ -1,6 +1,6 @@
 # Anastazja Reut
 
-> Software Engineer | Typescript evangelist | Problem solver
+> Frontend Software Engineer
 
 ## 🛠️ Technical Stack
 * Languages: JavaScript, Typescript, Node.js
