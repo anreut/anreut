@@ -1,11 +1,10 @@
-<h2 align="center">👋 Hello! I'm Anastazja.</h2>
+### Hello! I'm Anastazja <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+I am a Frontend Developer with 8+ years of experience in developing enterprise applications.
 
-> Frontend Developer
-
-## 🛠️ Technical Stack
-* Tech: JavaScript, Typescript, React.js, Next.js
-* Skills: User Inreface Design, Frontend Development
-* Tools: Git, GitHub, Docker
+## 🛠️ My Technical Stack
+* JavaScript, Typescript, React.js, Next.js
+* Git, GitHub, Docker
+* User Inreface Design, Frontend Development
 
 ## 📬 Connect
 - **LinkedIn**: [in/anreut](https://linkedin.com/in/anreut)
