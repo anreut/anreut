@@ -1,10 +1,10 @@
-# Anastazja Reut
+<h2 align="center">👋 Hello! I'm Anastazja.</h2>
 
-> Frontend Software Engineer
+> Frontend Developer
 
 ## 🛠️ Technical Stack
-* Languages: JavaScript, Typescript, Node.js
-* Frameworks: React, Next.js, Express
+* Tech: JavaScript, Typescript, React.js, Next.js
+* Skills: User Inreface Design, Frontend Development
 * Tools: Git, GitHub, Docker
 
 ## 📬 Connect
