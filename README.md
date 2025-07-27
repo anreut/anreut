@@ -2,7 +2,7 @@
 I am a Frontend Developer with 8+ years of experience in developing enterprise applications. Currently working as a Senior Software Engineer at <strong><a href="https://samsungrd.pl/">Samsung R&D Institute</a></strong>. I work on some side projects, learn new tools and technologies and try to keep up with the frontend world.
 
 ## 🛠️ My Technical Stack
-* JavaScript, Typescript, React.js, Next.js
+* JavaScript, Typescript, React, Redux, Node.js
 * Git, GitHub, Docker
 * User Inreface Design, Frontend Development
 
