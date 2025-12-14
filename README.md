@@ -1,10 +1,10 @@
-### Hello! I'm Anastazja
-I am a Frontend Developer with 8+ years of experience in developing enterprise applications. Currently working as a Senior Software Engineer at <strong><a href="https://samsungrd.pl/">Samsung R&D Institute</a></strong>. I work on some side projects, learn new tools and technologies and try to keep up with the frontend world.
+## ✨ About
+Senior Frontend Developer with 8+ years of experience building scalable enterprise applications. Currently at Samsung R&D Institute, where I focus on cutting-edge frontend solutions. I'm passionate about staying ahead of industry trends, exploring emerging technologies, and contributing to side projects that push my skills forward.
 
-## 🛠️ My Technical Stack
-* JavaScript, Typescript, React, Redux, Node.js
-* Git, GitHub, Docker
-* User Inreface Design, Frontend Development
+## 🛠️ My current technical stack
+* Languages: JavaScript, Typescript, Node.js
+* Frameworks and libraries: React, Redux, Zustand, TanStack Query, Express
+* Build: Turborepo, Vite
 
 ## 📬 Connect
 - **LinkedIn**: [in/anreut](https://linkedin.com/in/anreut)
