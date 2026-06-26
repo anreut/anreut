@@ -1,10 +1,9 @@
 ## ✨ About
-Senior Frontend Developer with 8+ years of experience building scalable enterprise applications. Currently at Samsung R&D Institute, where I focus on cutting-edge frontend solutions. I'm passionate about staying ahead of industry trends, exploring emerging technologies, and contributing to side projects that push my skills forward.
+Senior Frontend Developer with 8+ years of experience building scalable enterprise applications. Currently at Dynatrace, where I focus on cutting-edge frontend solutions. I'm passionate about staying ahead of industry trends and contributing to side projects that push my skills forward.
 
 ## 🛠️ Current tech stack
 * Languages: JavaScript, Typescript, Node.js
-* Frameworks and libraries: React, Redux, Zustand, TanStack Query, Express
-* Build: Turborepo, Vite
+* Frameworks and libraries: React, Redux, Zustand, TanStack Query, Express, Mantine, Lerna
 
 ## 📬 Connect
 - **LinkedIn**: [in/anreut](https://linkedin.com/in/anreut)
